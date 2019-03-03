@@ -50,6 +50,6 @@ public class _37_Maps {
             for (Map.Entry<String, Double> entry : treeMap.entrySet()) {
                 System.out.println(entry);
             }
-        }
+        } //komentarz
     }
 }
